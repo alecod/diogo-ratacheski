@@ -9250,7 +9250,7 @@ textarea.form-control {
     width: 50px;
     display: block;
     float: left;
-    background: rgba(165, 17, 110, 0.05);
+    background: rgb(165, 17, 111);
     border-radius: 50%;
     position: relative;
     }
@@ -9318,8 +9318,9 @@ textarea.form-control {
   }
 
 .heading-section h2 {
-  font-size: 40px;
-  font-weight: 600; }
+  font-size: 34px;
+  font-weight: 600;
+  }
   .heading-section h2 span {
     font-weight: 400; }
   @media (max-width: 767.98px) {
