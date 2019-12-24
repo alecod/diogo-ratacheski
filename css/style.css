@@ -9325,7 +9325,11 @@ textarea.form-control {
     font-weight: 400; }
   @media (max-width: 767.98px) {
     .heading-section h2 {
-      font-size: 28px; } }
+      font-size: 32px!important; } }
+
+ @media (max-width: 767.98px) {
+    .heading-section h2 .ti{
+      font-size: 26px!important; } }
 
 .heading-section.heading-section-white h2 {
   color: #fff; }
